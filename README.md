@@ -113,4 +113,3 @@ La documentation complète est disponible sur Swagger UI après lancement.
 ## Remarque
 
 Ce dépôt est destiné à un usage pédagogique dans le cadre du Master MIAGE — Université Paris Dauphine (2025-2026). La configuration a été simplifiée pour permettre une exécution immédiate sans étape de préparation locale.
-# Rendu_Finance_Tracker_BackEnd
