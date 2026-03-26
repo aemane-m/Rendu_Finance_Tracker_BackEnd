@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="fr.dauphine.miage.finance_tracker_api.FinanceTrackerApiApplicationTests" time="0.006" tests="1" errors="0" skipped="1" failures="0">
+  <properties/>
+  <testcase name="contextLoads" classname="fr.dauphine.miage.finance_tracker_api.FinanceTrackerApiApplicationTests" time="0.0">
+    <skipped message="Test d&apos;integration desactive pour le rendu afin d&apos;eviter une dependance a la base distante lors d&apos;un mvn test local."/>
+  </testcase>
+</testsuite>

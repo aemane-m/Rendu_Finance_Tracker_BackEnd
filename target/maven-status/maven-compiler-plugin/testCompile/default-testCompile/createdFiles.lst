@@ -1,0 +1,11 @@
+fr/dauphine/miage/finance_tracker_api/controllers/BudgetControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/TransactionControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/GoalControllerTest.class
+fr/dauphine/miage/finance_tracker_api/scheduler/PlannedTransactionSchedulerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/AccountControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/CategoryControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/PlannedTransactionControllerTest.class
+fr/dauphine/miage/finance_tracker_api/FinanceTrackerApiApplicationTests.class
+fr/dauphine/miage/finance_tracker_api/controllers/CalendarControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/DebtControllerTest.class
+fr/dauphine/miage/finance_tracker_api/controllers/DashboardControllerTest.class

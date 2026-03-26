@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.dauphine.miage.finance_tracker_api.controllers.CalendarControllerTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.963 s -- in fr.dauphine.miage.finance_tracker_api.controllers.CalendarControllerTest

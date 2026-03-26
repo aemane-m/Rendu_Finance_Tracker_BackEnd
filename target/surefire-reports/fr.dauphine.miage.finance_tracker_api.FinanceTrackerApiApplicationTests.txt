@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.dauphine.miage.finance_tracker_api.FinanceTrackerApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.006 s -- in fr.dauphine.miage.finance_tracker_api.FinanceTrackerApiApplicationTests

@@ -2,6 +2,11 @@
 
 API REST développée avec **Spring Boot 3** pour l'application de gestion de finances personnelles Finance Tracker.
 
+| | Lien |
+|---|---|
+| **Backend** | https://github.com/aemane-m/Rendu_Finance_Tracker_BackEnd |
+| **Frontend** | https://github.com/saraldv/Rendu_Finance_Tracker_FrontEnd |
+
 ---
 
 ## Stack technique
