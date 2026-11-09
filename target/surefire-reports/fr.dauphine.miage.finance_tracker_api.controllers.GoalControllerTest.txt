@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: fr.dauphine.miage.finance_tracker_api.controllers.GoalControllerTest
--------------------------------------------------------------------------------
-Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.290 s -- in fr.dauphine.miage.finance_tracker_api.controllers.GoalControllerTest
